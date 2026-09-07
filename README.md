@@ -1,2 +1,2 @@
-# IPA-Source
-My source of Infrastructure Programmability and Automation subject
+# IPA Lab 2 Repository
+Week03 - Connecting Devices
